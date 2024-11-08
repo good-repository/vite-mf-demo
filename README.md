@@ -3,6 +3,7 @@
 
 To run it I recommend using node 20
 
+Steps to run the project:\
 1- Enter the remote app and install all dependencies (Yarn recommended)\
 2- After installation run 'yarn preview' or 'npm run preview'\
 3- Enter the host app and install all dependencies (Yarn recommended)\
